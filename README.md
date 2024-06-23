@@ -42,7 +42,7 @@ This is the main program which creates the typing speed test, using the help of 
 ### Functions:
  **main()**
 
-Generates a start screen which welcomes the user and prompts them to play by pressing the ENTER key, and, based on the user's input, starts the test.
+Generates a start screen which welcomes the user and prompts them to play by pressing the ENTER key, and, based on the user's input, starts the test or exits the program.
 
 **calculate_accuracy(expected_inp, actual_inp)**
 
